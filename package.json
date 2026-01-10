@@ -30,7 +30,7 @@
   "author": "ALI-INXIDE",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "7.0.0-rc.9",
+    "@whiskeysockets/baileys": "6.7.19",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/scrap": "1.0.1",
     "@dark-yasiya/yt-dl.js": "latest",
